@@ -137,7 +137,7 @@
 | Enlace | Cria o quadro com MAC e FCS |
 | Física | Transmite os bits pelo meio físico |
 
-## 13. Resumo para Prova
+## 13. Resumo 
 
 | Pergunta | Resposta |
 |---|---|
